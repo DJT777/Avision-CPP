@@ -1,0 +1,4 @@
+/home/dylan/Desktop/ai-projects/yolo-tensorrt/build/CMakeFiles/detector.dir
+/home/dylan/Desktop/ai-projects/yolo-tensorrt/build/CMakeFiles/yolo-trt.dir
+/home/dylan/Desktop/ai-projects/yolo-tensorrt/build/CMakeFiles/edit_cache.dir
+/home/dylan/Desktop/ai-projects/yolo-tensorrt/build/CMakeFiles/rebuild_cache.dir
