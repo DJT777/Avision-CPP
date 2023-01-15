@@ -1,4 +1,4 @@
-#This repository serves as my basis to build a C++ YOLO Object Detector deployed to Jetson Nanos using my Engines, Weights, and Trained Algorithms ~ Muhammad Abd-Allah Rothschild
+#This repository serves as my basis to build a C++ YOLO Object Detector deployed to Jetson Nanos using my Engines, Weights, and Trained Algorithms ~ DJT
 
 
 
