@@ -1,6 +1,6 @@
-#This repository serves as my basis to build a C++ YOLO Object Detector deployed to Jetson Nanos using my Engines, Weights, and Trained Algorithms ~ DJT
+This repository serves as my basis to build a C++ YOLO Object Detector deployed to Jetson Nanos using my Engines, Weights, and Trained Algorithms ~ DJT
 
-
+Based on https://github.com/enazoe/yolo-tensorrt
 
 # Yolov5 Yolov4 Yolov3 TensorRT Implementation
 
