@@ -152,5 +152,3 @@ private:
 - https://github.com/mj8ac/trt-yolo-app_win64
 - https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps
 
-## Contact
-
